@@ -1,0 +1,3 @@
+== Sitemap Example App
+
+See http://richonrails.com/articles/sitemaps-in-ruby-on-rails for details.
